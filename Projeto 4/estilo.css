@@ -1,0 +1,61 @@
+body {
+    background-image: url(/IMG/bg-2.jpg);
+    background-size: cover;
+}
+
+h1 {
+    margin-top: 100px;
+    font-size: 56px;
+    text-transform: uppercase;
+    color: azure;
+    text-shadow: 2px 2px 1px rgb(67, 67, 67);
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    background-color: rgb(70, 70, 70);
+    color: whitesmoke;
+    border-bottom: solid 2px white;
+    margin: 0 35% 0 35%;
+    text-transform: uppercase;
+
+}
+
+.cabecalho {
+    text-align: center;
+}
+
+.painel {
+    width: 860px;
+    display: flex;
+    margin: 25px auto;
+    padding: 10px;
+    background-color: aliceblue;
+    flex-wrap: wrap;
+    gap: 16px;
+
+}
+
+.card p {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #646464;
+    padding: 8px;
+    color: azure;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    flex-basis: 250px;
+
+
+}
+
+img {
+    
+    width: 100%
+}
