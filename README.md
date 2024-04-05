@@ -1,4 +1,4 @@
-AQUI DEPOSITO ALGUNS TRABALHOS QUE MONTEI/ENCONTREI NO FIGMA E PASSEI PARA O HTML E CSS COMO FORMA DE PRÁTICAR NO DIA A DIA
+**Aqui deposito alguns trabalhos que montei/encontrei no FIGMA e passei para o HTML, CSS e JS com intuito de aprender conceitos novos/treinar**
 
 TO DO LIST:
 
